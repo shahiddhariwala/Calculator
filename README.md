@@ -1,2 +1,2 @@
 # Calculator
-Java Full Stack Program
+Calc
